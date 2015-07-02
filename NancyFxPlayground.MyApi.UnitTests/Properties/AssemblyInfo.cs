@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NancyFxPlayground")]
+[assembly: AssemblyTitle("NancyFxPlayground.MyApi.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NancyFxPlayground")]
+[assembly: AssemblyProduct("NancyFxPlayground.MyApi.UnitTests")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f02b5b72-349b-43df-b0b0-ca03554618bf")]
+[assembly: Guid("16cd3885-34d4-4b7d-ba5b-6a61efe04eaa")]
 
 // Version information for an assembly consists of the following four values:
 //
